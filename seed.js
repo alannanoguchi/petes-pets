@@ -1,5 +1,7 @@
-process.env.NODE_ENV = "dev"
+// Update this file to:
+
 module.exports = {
-	"dev": "localhost/petes-pets"
-	// "prod": "localhost/PROD_DB_NAME"
+    "undefined": "localhost/local",
+    "dev": "localhost/local",
+    "prod": "localhost/local"
 }
