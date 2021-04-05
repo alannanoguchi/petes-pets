@@ -1,7 +1,7 @@
 // Update this file to:
 
 module.exports = {
-    "undefined": "localhost/local",
-    "dev": "localhost/local",
-    "prod": "localhost/local"
+    "undefined": "localhost/petes-pets",
+    "dev": "localhost/petes-pets",
+    "prod": "localhost/petes-pets"
 }
